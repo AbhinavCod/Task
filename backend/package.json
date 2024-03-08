@@ -4,6 +4,7 @@
   "description": "",
   "main": "./src/app.ts",
   "scripts": {
+    "start":"node",
     "dev": "nodemon"
   },
   "author": "",
